@@ -4,6 +4,9 @@ body {
 img {
 	max-width: 100%;
 }
+h2 {
+	font-weight: 300;
+}
 .quitar-float {
 	float: none;
 }
@@ -12,6 +15,9 @@ img {
 }
 .pacifico {
 	font-family: 'Pacifico', cursive;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	font-weight: 300;
 }
 .se-gris {
 	background-color: #EEE;
